@@ -1,18 +1,19 @@
-Simple Solar system simulation progrma using Java.
+Simple Solar system simulation program using Java.
 Only using core Java SE code, no external libraries.
 - Java 2D
 - Swing GUI
 
-Project is Intellj IDEA, however should run from command line as well.
+Project is Intellj IDEA, however, it should run from the command line as well.
 
 SolarSystem is class with main() method
 
-from within src directory you can do
+From within the src directory you can do
 
 javac SolarSystem
 and
 java SolarSystem
-
+The 
 program should run. Tested using Java SE 21, on Windows 10.
 
-![image](https://github.com/user-attachments/assets/7b5a807d-b75c-4183-b854-ac160b63e590)
+![image](https://github.com/user-attachments/assets/fd49944b-48a9-4d9d-9f05-1aed2c2cec66)
+
